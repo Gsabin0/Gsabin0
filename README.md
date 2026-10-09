@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel Sabino 🤖</h1>
+<h1 align="center">Olá, eu sou o Sabino 🤖</h1>
 
 <p align="center">
   <a href="https://github.com/Gsabin0">
